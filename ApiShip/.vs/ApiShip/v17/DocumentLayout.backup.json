@@ -39,8 +39,7 @@
               "RelativeToolTip": "..\\..\\Sport\\Client\\Pages\\Prod.razor",
               "ViewState": "AgIAABQAAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T11:01:48.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T11:01:48.423Z"
             },
             {
               "$type": "Document",
@@ -52,8 +51,7 @@
               "RelativeToolTip": "..\\Client\\Pages\\Product.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T11:01:19.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T11:01:19.51Z"
             },
             {
               "$type": "Document",
@@ -61,8 +59,8 @@
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\Client\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "..\\Client\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\Client\\Pages\\Index.razor*",
-              "RelativeToolTip": "..\\Client\\Pages\\Index.razor*",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "..\\Client\\Pages\\Index.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-24T10:45:11.672Z",
@@ -71,15 +69,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApiShip",
+              "Title": "ApiShip.csproj",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\ApiShip\\ApiShip.csproj",
               "RelativeDocumentMoniker": "ApiShip.csproj",
               "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\ApiShip\\ApiShip.csproj",
               "RelativeToolTip": "ApiShip.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-24T10:44:28.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T10:44:28.175Z"
             }
           ]
         }
