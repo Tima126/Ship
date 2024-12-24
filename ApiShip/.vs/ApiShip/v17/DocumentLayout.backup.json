@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\ApiShip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C00AC1-D24C-4C7C-9FA8-5178FD18047C}|..\\Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ship\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C00AC1-D24C-4C7C-9FA8-5178FD18047C}|..\\Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ship\\client\\pages\\product.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sport\\Client\\Pages\\Prod.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B750AC-A4A8-40DF-8DC0-BBA302D4EC4F}|ApiShip.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ship\\apiship\\apiship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05B750AC-A4A8-40DF-8DC0-BBA302D4EC4F}|ApiShip.csproj|solutionrelative:apiship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prod.razor",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sport\\Client\\Pages\\Prod.razor",
+              "RelativeDocumentMoniker": "..\\..\\Sport\\Client\\Pages\\Prod.razor",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sport\\Client\\Pages\\Prod.razor",
+              "RelativeToolTip": "..\\..\\Sport\\Client\\Pages\\Prod.razor",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:01:48.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.razor",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\Client\\Pages\\Product.razor",
+              "RelativeDocumentMoniker": "..\\Client\\Pages\\Product.razor",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\Client\\Pages\\Product.razor",
+              "RelativeToolTip": "..\\Client\\Pages\\Product.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:01:19.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "..\\Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\Client\\Pages\\Index.razor*",
+              "RelativeToolTip": "..\\Client\\Pages\\Index.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T10:45:11.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiShip",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\ApiShip\\ApiShip.csproj",
+              "RelativeDocumentMoniker": "ApiShip.csproj",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Ship\\ApiShip\\ApiShip.csproj",
+              "RelativeToolTip": "ApiShip.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T10:44:28.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

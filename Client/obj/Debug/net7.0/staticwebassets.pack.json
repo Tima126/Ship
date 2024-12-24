@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Ship\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Ship\\Client\\obj\\Debug\\net7.0\\compressed\\j91lgic2gk.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Ship\\Client\\wwwroot\\Img\\[67m-Yacht-ANNA]-2073-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\[67m-Yacht-ANNA]-2073-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Ship\\Client\\wwwroot\\Img\\c79ac9bdb41cd58130123db1a4c0d029.png",
+      "PackagePath": "staticwebassets\\Img\\c79ac9bdb41cd58130123db1a4c0d029.png"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Ship\\Client\\wwwroot\\Img\\яхфта.jpg",
+      "PackagePath": "staticwebassets\\Img\\яхфта.jpg"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Ship\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Ship\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Client.props",
+      "PackagePath": "build\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Client.props",
+      "PackagePath": "buildMultiTargeting\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Client.props",
+      "PackagePath": "buildTransitive\\Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

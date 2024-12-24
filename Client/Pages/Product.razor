@@ -1,0 +1,49 @@
+﻿@page "/products"
+
+<section id="">
+    <div class="container">
+        <h1>Яхты</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Производитель</th>
+                    <th scope="col">Модель</th>
+                    <th scope="col">Максимальная скорость</th>
+                    <th scope="col">Длина</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var yacht in result)
+                {
+                    <tr>
+                        <th scope="row">@yacht.ModelID</th>
+                        <td>@yacht.Manufacturer</td>
+                        <td>@yacht.ModelName</td>
+                        <td>@yacht.MaxSpeed</td>
+                        <td>@yacht.Length</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+
+@code {
+    public class Yaht
+    {
+        public int ModelID { get; set; }
+        public string Manufacturer { get; set; } = null!;
+        public string ModelName { get; set; } = null!;
+        public string MaxSpeed { get; set; } = null!;
+        public string? Length { get; set; }
+    }
+
+    public Yaht[] result = new Yaht[]
+    {
+        new Yaht { ModelID = 1, Manufacturer = "Ferretti", ModelName = "Ferretti 720", MaxSpeed = "32.0", Length = "22.20" },
+        new Yaht { ModelID = 2, Manufacturer = "Azimut", ModelName = "Azimut 66", MaxSpeed = "30.0", Length = "20.10" },
+        new Yaht { ModelID = 3, Manufacturer = "Sunseeker", ModelName = "Sunseeker 86", MaxSpeed = "35.0", Length = "26.20" }
+    };
+}

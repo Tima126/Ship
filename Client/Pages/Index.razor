@@ -1,0 +1,157 @@
+﻿@page "/"
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxury Yachts - Продажа эксклюзивных яхт</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: #fff;
+            line-height: 1.6;
+        }
+        header {
+            background: url('https://source.unsplash.com/1600x900/?yacht,sea') no-repeat center center/cover;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 0 20px;
+        }
+        header h1 {
+            font-size: 3rem;
+            margin: 0;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        header p {
+            font-size: 1.5rem;
+            margin: 10px 0 30px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+        }
+        .btn {
+            background: #ff6f61;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2rem;
+            transition: background 0.3s ease;
+        }
+        .btn:hover {
+            background: #ff4a3d;
+        }
+        section {
+            padding: 50px 20px;
+            text-align: center;
+        }
+        section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        section p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .product-card {
+            display: inline-block;
+            width: 300px;
+            margin: 20px;
+            background: #fff;
+            color: #333;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease;
+        }
+        .product-card:hover {
+            transform: scale(1.05);
+        }
+        .product-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        .product-card h3 {
+            font-size: 1.5rem;
+            margin: 15px 0;
+        }
+        .product-card p {
+            font-size: 1rem;
+            padding: 0 15px;
+            margin-bottom: 15px;
+        }
+        .product-card .btn {
+            display: block;
+            margin: 15px auto;
+            width: 80%;
+            text-align: center;
+        }
+        footer {
+            background: #1e3c72;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Luxury Yachts</h1>
+            <p>Откройте мир роскошных путешествий на яхтах</p>
+            <a href="#catalog" class="btn">Посмотреть каталог</a>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>О нас</h2>
+        <p>Мы предлагаем эксклюзивные яхты для тех, кто ценит комфорт, стиль и свободу. Наши яхты сочетают в себе современный дизайн, высочайшее качество и непревзойденный сервис.</p>
+    </section>
+
+    <section id="catalog">
+        <h2>Наш каталог</h2>
+        <div class="product-grid">
+            <!-- Карточка 1 -->
+            <div class="product-card">
+                <img src="Img/яхфта.jpg" alt="Luxury Yacht 1">
+                <h3>Luxury Yacht 1</h3>
+                <p>Длина: 15 м, 3 каюты, современный дизайн.</p>
+                <a href="/products" class="btn">Подробнее</a>
+            </div>
+            <!-- Карточка 2 -->
+            <div class="product-card">
+                <img src="Img/c79ac9bdb41cd58130123db1a4c0d029.png" alt="Speed Yacht 2">
+                <h3>Speed Yacht 2</h3>
+                <p>Длина: 12 м, 2 каюты, высокая скорость.</p>
+                <a href="/products" class="btn">Подробнее</a>
+            </div>
+            <!-- Карточка 3 -->
+            <div class="product-card">
+                <img src="Img/[67m-Yacht-ANNA]-2073-2.jpg" alt="Family Yacht 3">
+                <h3>Family Yacht 3</h3>
+                <p>Длина: 18 м, 4 каюты, идеально для семейного отдыха.</p>
+                <a href="/products" class="btn">Подробнее</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Свяжитесь с нами</h2>
+        <p>Если у вас есть вопросы или вы хотите заказать яхту, свяжитесь с нами по телефону или электронной почте. Мы всегда рады помочь!</p>
+        <p><strong>Телефон:</strong> +7 (123) 456-78-90</p>
+        <p><strong>Email:</strong> info@luxuryyachts.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Luxury Yachts. Все права защищены.</p>
+    </footer>
+</body>
+</html>
